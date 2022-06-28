@@ -1,0 +1,2 @@
+c#!/bin/bash
+cat tail -n1 iacta >> iacta
